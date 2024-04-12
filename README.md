@@ -1,5 +1,4 @@
 # AI-Based Interview Platform
-===========================
 
 ## Description
 The AI-Based Interview Platform is designed for conducting technical job interviews. It automates the interview process by asking questions, evaluating candidate responses, asking follow-up questions based on those responses, and generating feedback on various aspects such as fluency and grammatical errors.
@@ -23,7 +22,7 @@ The AI-Based Interview Platform is designed for conducting technical job intervi
    ```
 2. Navigate to the project directory:
    ```bash
-   cd techshile-ml
+   cd techshila-ml
    ```
 3. Install the required dependencies:
    ```bash
@@ -36,21 +35,18 @@ The AI-Based Interview Platform is designed for conducting technical job intervi
    panel serve app.py
    ```
 2. For grammatical error analysis:
-   ```run
+   ```bash
    python grammar.py
    ```
 3. For language detection, fluency and confidence score:
-   ```run
+   run in jupyter lab
+   ```bash
    Analyzer.ipynb
    ```
-   in jupyter lab
    
 ## Contributors
-Devansh Bhardwaj  [LINK] (https://github.com/FireShadow05)
-Shailesh Kumar [LINK] (https://github.com/captain-peroxide)
-Anuj Baliyan  [LINK] (https://github.com/AnuIntelligence/)
-Avishkar Pawar [LINK] (https://github.com/avishkarp231)
-Adarsh Kumar  [LINK} (https://github.com/Adda2003)
-
-
-   
+- Devansh Bhardwaj  [LINK](https://github.com/FireShadow05)
+- Shailesh Kumar [LINK](https://github.com/captain-peroxide)
+- Anuj Baliyan  [LINK](https://github.com/AnuIntelligence/)
+- Avishkar Pawar [LINK](https://github.com/avishkarp231)
+- Adarsh Kumar  [LINK](https://github.com/Adda2003)
