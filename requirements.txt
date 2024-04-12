@@ -1,0 +1,12 @@
+numpy==1.21.1
+pandas==1.2.4
+langchain==0.1.15
+transformers==4.39.3
+json==2.0.9
+torch==2.2.2
+flask==3.0.3
+panel==1.4.1
+noisereduce
+csv==1.0
+librosa==0.10.0
+bs4==4.12.3
