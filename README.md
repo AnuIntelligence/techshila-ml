@@ -45,8 +45,8 @@ The AI-Based Interview Platform is designed for conducting technical job intervi
    ```
    
 ## Contributors
-- Devansh Bhardwaj  [LINK](https://github.com/FireShadow05)
-- Shailesh Kumar [LINK](https://github.com/captain-peroxide)
-- Anuj Baliyan  [LINK](https://github.com/AnuIntelligence/)
-- Avishkar Pawar [LINK](https://github.com/avishkarp231)
-- Adarsh Kumar  [LINK](https://github.com/Adda2003)
+- [Devansh Bhardwaj](https://github.com/FireShadow05)
+- [Shailesh Kumar](https://github.com/captain-peroxide)
+- [Anuj Baliyan](https://github.com/AnuIntelligence/)
+- [Avishkar Pawar](https://github.com/avishkarp231)
+- [Adarsh Kumar](https://github.com/Adda2003)
